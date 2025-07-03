@@ -1,3 +1,5 @@
+
+
 # Netflix_household_bypass
 A workaround for the netflix account household error
 for desktop is below, but might work on firefox mobile too. 
@@ -161,3 +163,9 @@ For example: "https://www.netflix.com/watch/80082850?trackId=252480315&tctx=1%2C
 becomes: "https://www.netflix.com/watch/80082850"
 
 ****In  regards to "will this make netflix ban me?" NO it should not as this is all done client side, in browser and as such, shouldn't be detectable.****
+
+Before:
+![before](https://github.com/user-attachments/assets/1be47aff-4eca-47da-95c8-8338dff5161b)
+
+After: 
+![After](https://github.com/user-attachments/assets/89aec486-eadc-4c6d-87d0-f267c55781be)
