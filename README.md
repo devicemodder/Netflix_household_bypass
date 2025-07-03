@@ -158,14 +158,12 @@ it's a bit clunky but it works.
 
 video does not auto play, you need to click play. 
 
-For example: "https://www.netflix.com/watch/80082850?trackId=252480315&tctx=1%2C2%2C7f4396f1-dc2e-4cb4-9a44-df6e72c73a0d-55686186%2CNES_4B074D20B29104C02E99D6AB467458-665E1CE5EC4CF1-2E452386D5_p_1751569653971%2CNES_4B074D20B29104C02E99D6AB467458_p_1751569653971%2C%2C%2C%2C80082850%2CVideo%3A80082850%2CminiDpPlayButton"
-
-becomes: "https://www.netflix.com/watch/80082850"
-
 ****In  regards to "will this make netflix ban me?" NO it should not as this is all done client side, in browser and as such, shouldn't be detectable.****
 
 Before:
+
 ![before](https://github.com/user-attachments/assets/1be47aff-4eca-47da-95c8-8338dff5161b)
 
 After: 
+
 ![After](https://github.com/user-attachments/assets/89aec486-eadc-4c6d-87d0-f267c55781be)
