@@ -91,6 +91,12 @@ Adds Previous/Next episode buttons to the video player (may not work correctly d
 
 it's a bit clunky but it works.
 
-*In the event that the video does NOT play (shows a still frame) the URL needs to be modified to remove all the extra stuff so it only shows as follows "https://www.netflix.com/watch/\<insert video ID number here>"
+*In the event that the video does NOT play (shows a still frame) the URL needs to be modified to remove all the extra stuff so it only shows as follows "https://www.netflix.com/watch/XXXXXXX"
 
-****In  regards to "will this make netflix ban me?" NO it should not as this is all done cliient side, in browser and as such, shouldn't be detectable.****
+Where XXXXXXX is the netflix videoID number. 
+
+For example: "https://www.netflix.com/watch/80082850?trackId=252480315&tctx=1%2C2%2C7f4396f1-dc2e-4cb4-9a44-df6e72c73a0d-55686186%2CNES_4B074D20B29104C02E99D6AB467458-665E1CE5EC4CF1-2E452386D5_p_1751569653971%2CNES_4B074D20B29104C02E99D6AB467458_p_1751569653971%2C%2C%2C%2C80082850%2CVideo%3A80082850%2CminiDpPlayButton"
+
+becomes: "https://www.netflix.com/watch/80082850"
+
+****In  regards to "will this make netflix ban me?" NO it should not as this is all done client side, in browser and as such, shouldn't be detectable.****
