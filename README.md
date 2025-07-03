@@ -78,3 +78,5 @@ it'll run and videos will play, but you won't be able to use the full netflix in
 Adds Previous/Next episode buttons to the video player (may not work correctly depending on the video. still working the bugs out)
 
 it's a bit clunky but it works.
+
+****In  regards to "will this make netflix ban me?" NO it should not as this is all done cliient side, in browser and as such, shouldn't be detectable.****
